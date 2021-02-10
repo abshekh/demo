@@ -1,7 +1,7 @@
 {
-  "user": {
+  "todos": {
     "id": 1,
-    "firstName": "John",
-    "lastName": "Doe"
+    "title": "lorem ipsum",
+    "completed": false
   }
 }
